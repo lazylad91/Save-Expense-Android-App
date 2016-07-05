@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SaveExpense</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_expense_detail">ExpenseDetail</string>
+    <string name="category_prompt">Choose a Category</string>
+
+    <string-array name="category_array">
+        <item>Select Category</item>
+        <item>Food</item>
+        <item>Grocery</item>
+        <item>Shopping</item>
+        <item>Transport</item>
+        <item>Gas</item>
+        <item>Clubbing</item>
+        <item>Bills</item>
+    </string-array>
+
+
+</resources>
