@@ -9,6 +9,11 @@ User can also click on any transaction on list to see the details and delete any
 
 <h2>Diagram</h2>
 
-<img src="https://github.com/lazylad91/Save-Expense-Android-App/tree/master/Architecture%20Diagram" width="500" height="400">
+<img src="https://github.com/lazylad91/Save-Expense-Android-App/blob/master/Architecture%20Diagram/Architecture.png">
+
+#APK download link
+https://github.com/lazylad91/Save-Expense-Android-App/commit/ee7b8fac31d659851d699bd19974ec370b929ba9
 
 
+#Demo Video Link  -  
+https://youtu.be/sjDShr-xum8
