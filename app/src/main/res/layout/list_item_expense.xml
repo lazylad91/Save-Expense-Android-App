@@ -35,6 +35,6 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:textSize="40dp"/>
+        android:textSize="30dp"/>
 
 </RelativeLayout>
